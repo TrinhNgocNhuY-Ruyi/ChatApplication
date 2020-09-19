@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.FragmentUser">
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:hint="Search..."
+        android:background="@drawable/background_icon"
+        android:paddingLeft="20dp"
+        android:drawableStart="@drawable/ic_baseline_search_24"
+        android:id="@+id/search_users"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/listUser"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:layout_below="@+id/search_users">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+
+</RelativeLayout>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ChocoApp</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGNUP</string>
+    <string name="update">UPDATE</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="or">OR</string>
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="fullname">Full Name</string>
+    <string name="username">User Name</string>
+    <string name="status">Status</string>
+    <string name="confirm_password"> Confirm Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chats">Chats</string>
+    <string name="group">Groups</string>
+    <string name="profile">Profile</string>
+</resources>
